@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project in TOP-Foundations course. This is a website which contains multiple food recipes. It has been created using basic html knowledge that I have learnt in the past few lessons. I have implemented various text and image tags and attributes in this project. 
