@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(27, 29, 30);
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: "Papyrus", Garamond, sans-serif;
+    color: rgb(218, 211, 204);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(189, 185, 181);
+}
+
+.recipe-list{
+    background-color: #181a1b;
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.recipe {
+    font-size: 24px;
+    text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+
