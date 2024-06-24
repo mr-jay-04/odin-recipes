@@ -1,19 +1,42 @@
 body{
     background-color: rgb(27, 29, 30);
     color: rgb(205, 200, 194);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
 }
 
 
 h1 {
     font-size: 50px;
     text-align: center;
-    font-family: "Papyrus", Garamond, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
 }
 
 img {
     height: auto;
     width: 500px;
+    border-radius: 25px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
+
 }
+
+.content{
+    margin-left: 20px;
+}
+
+ul,ol {
+    list-style-position: inside;
+}
+
+.block {
+    background-color: #181a1b;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 0 20px;
+}
+.pizza {
+    list-style-type: none;
+}
+
+
+
